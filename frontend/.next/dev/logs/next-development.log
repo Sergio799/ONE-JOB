@@ -1,3 +1,0 @@
-[00:27:35.686] Server  ERROR   Error: ENOENT: no such file or directory, scandir 'C:\Users\saipr\Desktop\One Job\frontend\app'
-[00:27:35.689] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir 'C:\Users\saipr\Desktop\One Job\frontend\app'
-[00:27:35.693] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir 'C:\Users\saipr\Desktop\One Job\frontend\app'
